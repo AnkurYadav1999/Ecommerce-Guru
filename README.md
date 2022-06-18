@@ -1,2 +1,2 @@
 # Ecommerce-Guru
-An Ecommerce site made in HTML CSS
+Basic HTML CSS Ecommerce Site
